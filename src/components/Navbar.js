@@ -30,6 +30,9 @@ function CustomNavbar() {
                     <LinkContainer to="/partners">
                         <Nav.Link>Partners</Nav.Link>
                     </LinkContainer>
+                    <LinkContainer to="/contact">
+                        <Nav.Link>Contact us</Nav.Link>
+                    </LinkContainer>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>

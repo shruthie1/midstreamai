@@ -9,6 +9,7 @@ import Testimonials from './components/Testimonials';
 import CaseStudies from './components/CaseStudies';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import ContactUs from './components/ContactUs';
 
 function App() {
     return (
@@ -27,6 +28,7 @@ function App() {
                     <Route path="/products" element={<Products />} />
                     <Route path="/testimonials" element={<Testimonials />} />
                     <Route path="/casestudies" element={<CaseStudies />} />
+                    <Route path="/contact" element={<ContactUs />} />
                 </Routes>
             </div>
         </Router>

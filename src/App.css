@@ -1,9 +1,19 @@
+
+@font-face {
+  font-family: 'Century Gothic';
+  src: url('/CenturyGothic.ttf') format('truetype');
+}
+
+* {
+  font-family: 'Century Gothic', Arial, sans-serif; /* Fallback to Arial */
+}
+
 .App {
   text-align: center;
   /* padding-top: 70px; Add padding to avoid overlap with navbar */
 }
 
-.home, .about, .services, .products, .testimonials, .casestudies {
+.home, .about, .services, .products, .testimonials, .casestudies, .contactus {
   padding: 20px;
 }
 
