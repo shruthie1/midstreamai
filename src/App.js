@@ -15,11 +15,11 @@ function App() {
     return (
         <Router>
             <div className="App">
-                <div>
+                {/* <div>
                     <a href="/">
                         <img src="/logo.png" alt="MidstreamAI Logo" className="logo" />
                     </a>
-                </div>
+                </div> */}
                 <CustomNavbar />
                 <Routes>
                     <Route path="/" element={<Home />} />
