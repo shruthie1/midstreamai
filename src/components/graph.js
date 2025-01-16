@@ -8,7 +8,7 @@ Chart.register(...registerables);
 
 const TimeSeriesGraph = () => {
     const [datasets, setDatasets] = useState([]);
-    const [selectedInstruments, setSelectedInstruments] = useState([]);
+    const [selectedInstruments, setSelectedInstruments] = useState([]); // Initially empty
     const [dateRange, setDateRange] = useState({ start: null, end: null });
     const chartRef = useRef(null);
     const canvasRef = useRef(null);
@@ -19,40 +19,20 @@ const TimeSeriesGraph = () => {
             .then((response) => response.json()) // Ensure you parse the response as JSON
             .then((data) => {
                 setDatasets(data);
-                selectedInstruments(data[4]); // Select the first instrument by default
+
+                // Initialize selected instruments and date range
+                // Select first two instruments by default
+                const defaultInstruments = data.slice(0, 3);  // Just an example, adjust based on your data
+                setSelectedInstruments(defaultInstruments);
+
+                // Set a default date range (e.g., the first 30 minutes)
+                const startDate = "2024-10-16T19:19:23" // ISO string format
+                const endDate = "2025-01-16T19:19:23"
+                console.log(startDate, endDate)
+                setDateRange({ start: startDate, end: endDate });
             })
             .catch((error) => console.error('Error loading JSON data:', error));
-    }, [selectedInstruments]); // Empty array means this effect runs once when the component mounts
-
-    // Mock data update function
-    // useEffect(() => {
-    //     // const addMockData = () => {
-    //     //     const newDatasets = [...datasets]; // Copy existing datasets to avoid direct mutation
-
-    //     //     // Simulate adding new data for each instrument
-    //     //     newDatasets.forEach((instrument) => {
-    //     //         // Get the current timestamp and a random value for the mock data
-    //     //         const newTimestamp = new Date();
-    //     //         const newValue = Math.random() * 100; // Random value between 0 and 100
-
-    //     //         // Push the new data point into the instrument's data
-    //     //         instrument.data.push({
-    //     //             timestamp: newTimestamp,
-    //     //             value: newValue,
-    //     //             opcQuality: 'Good', // Mock opcQuality (you can change this as needed)
-    //     //         });
-    //     //     });
-
-    //     //     // Update state with the new datasets
-    //     //     setDatasets(newDatasets);
-    //     // };
-
-    //     // Set an interval to add new mock data every 5 seconds
-    //     // const intervalId = setInterval(addMockData, 5000);
-
-    //     // Cleanup interval on component unmount
-    //     // return () => clearInterval(intervalId);
-    // }, [datasets]); // This effect depends on the `datasets` state
+    }, []); // Only run this once when the component mounts
 
     useEffect(() => {
         // Destroy previous chart instance if it exists
@@ -227,7 +207,6 @@ const TimeSeriesGraph = () => {
                             </div>
                         ))}
                     </div>
-
                 </div>
 
                 {/* Date Range Picker */}
@@ -239,6 +218,7 @@ const TimeSeriesGraph = () => {
                             id="start-date"
                             className="date-input"
                             onChange={(e) => handleDateRangeChange('start', e.target.value)}
+                            value={dateRange.start}
                         />
                     </div>
                     <div className="date-column">
@@ -248,6 +228,7 @@ const TimeSeriesGraph = () => {
                             id="end-date"
                             className="date-input"
                             onChange={(e) => handleDateRangeChange('end', e.target.value)}
+                            value={dateRange.end}
                         />
                     </div>
                 </div>
