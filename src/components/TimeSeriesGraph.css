@@ -1,0 +1,143 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Chart container */
+.chart-container {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+    width: 95%; /* Allow slight resizing */
+}
+
+/* Title */
+.chart-container h2 {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 20px;
+    color: #4CAF50;
+    font-weight: 600;
+}
+
+
+/* Styling for the chart canvas wrapper */
+.chart-wrapper {
+    position: relative;
+    height: 450px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+}
+
+/* Canvas styling */
+canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+
+.controls {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Create multiple columns, each at least 150px wide */
+    gap: 10px; /* Space between items */
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    padding: 10px;
+  }
+  
+  .controls-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  
+  .controls-label {
+    font-size: bolder;
+    color: #333;
+    margin: 0;
+  }
+  
+  .checkbox-item input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+  }
+
+  .checkbox-group {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust column width as necessary */
+    gap: 10px; /* Spacing between the columns */
+  }
+  
+  .checkbox-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox-label {
+    margin-left: 8px; /* Space between checkbox and label */
+  }
+
+  .controls-item2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal-width columns */
+    gap: 10px; /* Space between the columns */
+  }
+  
+  .date-column {
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+  .date-input {
+    padding: 8px; /* Padding for the input fields */
+  }
+  
+  
+  .date-input {
+    padding: 6px 8px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .date-input:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .controls-item input[type="datetime-local"] {
+    width: 100%;
+    font-size: 12px;
+  }
+  
+  .controls-item input[type="datetime-local"]:focus {
+    border-color: #007bff;
+  }
+  
+  @media (max-width: 600px) {
+    .controls {
+      grid-template-columns: 1fr; /* Stack items in one column on small screens */
+      padding: 8px;
+    }
+  
+    .checkbox-group {
+      gap: 4px;
+    }
+  
+    .date-input {
+      width: 100%;
+    }
+  }
+  

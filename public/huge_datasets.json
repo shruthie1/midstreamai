@@ -1,0 +1,2542 @@
+[
+    {
+        "instrumentName": "Instrument 1",
+        "sensorType": "Temperature",
+        "data": [
+            {
+                "timestamp": "2025-01-15T00:00:00Z",
+                "value": 537.32,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:05Z",
+                "value": 354.96,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:10Z",
+                "value": 43.49,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:15Z",
+                "value": 158.82,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:20Z",
+                "value": 829.59,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:25Z",
+                "value": 310.1,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:30Z",
+                "value": 847.96,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:35Z",
+                "value": 252.44,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:40Z",
+                "value": 1011.62,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:45Z",
+                "value": 134.94,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:50Z",
+                "value": 918.47,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:55Z",
+                "value": 924.14,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:00Z",
+                "value": 113.49,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:05Z",
+                "value": 960.26,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:10Z",
+                "value": 471.52,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:15Z",
+                "value": 911.47,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:20Z",
+                "value": 563.12,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:25Z",
+                "value": 191.46,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:30Z",
+                "value": 861.96,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:35Z",
+                "value": 182.24,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:40Z",
+                "value": 907.91,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:45Z",
+                "value": 1004.2,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:50Z",
+                "value": 675.83,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:55Z",
+                "value": 176.1,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:00Z",
+                "value": 958.54,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:05Z",
+                "value": 569.63,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:10Z",
+                "value": 121.07,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:15Z",
+                "value": 829.21,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:20Z",
+                "value": 330.8,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:25Z",
+                "value": 553.93,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:30Z",
+                "value": 717.39,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:35Z",
+                "value": 209.99,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:40Z",
+                "value": 971.25,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:45Z",
+                "value": 917.89,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:50Z",
+                "value": 821.95,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:55Z",
+                "value": 750.15,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:00Z",
+                "value": 256.4,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:05Z",
+                "value": 720.45,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:10Z",
+                "value": 804.13,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:15Z",
+                "value": 941.71,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:20Z",
+                "value": 643.3,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:25Z",
+                "value": 991.75,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:30Z",
+                "value": 890.06,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:35Z",
+                "value": 913.23,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:40Z",
+                "value": 633.04,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:45Z",
+                "value": 871.89,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:50Z",
+                "value": 972.49,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:55Z",
+                "value": 464.34,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:00Z",
+                "value": 999.18,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:05Z",
+                "value": 482.12,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:10Z",
+                "value": 620.23,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:15Z",
+                "value": 457.99,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:20Z",
+                "value": 427.91,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:25Z",
+                "value": 568.65,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:30Z",
+                "value": 342.97,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:35Z",
+                "value": 990.21,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:40Z",
+                "value": 255.82,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:45Z",
+                "value": 373.2,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:50Z",
+                "value": 813.72,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:55Z",
+                "value": 661.41,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:00Z",
+                "value": 927.07,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:05Z",
+                "value": 142.49,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:10Z",
+                "value": 780.82,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:15Z",
+                "value": 39.01,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:20Z",
+                "value": 50.07,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:25Z",
+                "value": 473.6,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:30Z",
+                "value": 694.64,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:35Z",
+                "value": 1007.63,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:40Z",
+                "value": 984.72,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:45Z",
+                "value": 354.21,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:50Z",
+                "value": 186.1,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:55Z",
+                "value": 513.68,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:00Z",
+                "value": 723.07,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:05Z",
+                "value": 999.16,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:10Z",
+                "value": 463.91,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:15Z",
+                "value": 721.06,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:20Z",
+                "value": 538.21,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:25Z",
+                "value": 617.79,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:30Z",
+                "value": 777.75,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:35Z",
+                "value": 895.21,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:40Z",
+                "value": 763.58,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:45Z",
+                "value": 922.46,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:50Z",
+                "value": 394.96,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:55Z",
+                "value": 687.32,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:00Z",
+                "value": 129.72,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:05Z",
+                "value": 346.25,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:10Z",
+                "value": 585.72,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:15Z",
+                "value": 481.9,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:20Z",
+                "value": 959.44,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:25Z",
+                "value": 528.13,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:30Z",
+                "value": 479.18,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:35Z",
+                "value": 515.34,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:40Z",
+                "value": 49.59,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:45Z",
+                "value": 291.51,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:50Z",
+                "value": 30.09,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:55Z",
+                "value": 760.47,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:00Z",
+                "value": 553.25,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:05Z",
+                "value": 606.01,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:10Z",
+                "value": 527.72,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:15Z",
+                "value": 148.16,
+                "opcQuality": "Bad"
+            }
+        ],
+        "color": "#8E422A",
+        "backgroundColor": "rgba(39, 78, 245, 0.1)"
+    },
+    {
+        "instrumentName": "Instrument 2",
+        "sensorType": "Flow",
+        "data": [
+            {
+                "timestamp": "2025-01-15T00:00:00Z",
+                "value": 29.97,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:05Z",
+                "value": 516.58,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:10Z",
+                "value": 240.39,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:15Z",
+                "value": 536.61,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:20Z",
+                "value": 952.92,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:25Z",
+                "value": 553.34,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:30Z",
+                "value": 712.05,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:35Z",
+                "value": 588.55,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:40Z",
+                "value": 67.09,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:45Z",
+                "value": 881.62,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:50Z",
+                "value": 838.87,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:55Z",
+                "value": 557.3,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:00Z",
+                "value": 141.89,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:05Z",
+                "value": 748.53,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:10Z",
+                "value": 748.6,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:15Z",
+                "value": 392.34,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:20Z",
+                "value": 572.93,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:25Z",
+                "value": 940.49,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:30Z",
+                "value": 435.82,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:35Z",
+                "value": 741.71,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:40Z",
+                "value": 871.7,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:45Z",
+                "value": 331.03,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:50Z",
+                "value": 398.96,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:55Z",
+                "value": 67.01,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:00Z",
+                "value": 238.04,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:05Z",
+                "value": 203.55,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:10Z",
+                "value": 353.45,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:15Z",
+                "value": 988.29,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:20Z",
+                "value": 792.29,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:25Z",
+                "value": 524.38,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:30Z",
+                "value": 52.89,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:35Z",
+                "value": 749.75,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:40Z",
+                "value": 1012.04,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:45Z",
+                "value": 778.77,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:50Z",
+                "value": 476.55,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:55Z",
+                "value": 901.97,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:00Z",
+                "value": 750.75,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:05Z",
+                "value": 194.96,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:10Z",
+                "value": 359.9,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:15Z",
+                "value": 780.45,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:20Z",
+                "value": 230.02,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:25Z",
+                "value": 516.39,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:30Z",
+                "value": 243.57,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:35Z",
+                "value": 304.32,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:40Z",
+                "value": 147.62,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:45Z",
+                "value": 19.5,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:50Z",
+                "value": 195.15,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:55Z",
+                "value": 1000.57,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:00Z",
+                "value": 209.9,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:05Z",
+                "value": 924.89,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:10Z",
+                "value": 894.58,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:15Z",
+                "value": 861.39,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:20Z",
+                "value": 679.65,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:25Z",
+                "value": 805.91,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:30Z",
+                "value": 734.2,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:35Z",
+                "value": 544.5,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:40Z",
+                "value": 20.89,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:45Z",
+                "value": 198.62,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:50Z",
+                "value": 647.52,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:55Z",
+                "value": 935.53,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:00Z",
+                "value": 447.35,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:05Z",
+                "value": 936.62,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:10Z",
+                "value": 885.24,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:15Z",
+                "value": 646.14,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:20Z",
+                "value": 662.69,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:25Z",
+                "value": 717.7,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:30Z",
+                "value": 721.28,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:35Z",
+                "value": 39.44,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:40Z",
+                "value": 896.4,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:45Z",
+                "value": 872.81,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:50Z",
+                "value": 404.58,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:55Z",
+                "value": 324.77,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:00Z",
+                "value": 804.29,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:05Z",
+                "value": 45.98,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:10Z",
+                "value": 523.17,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:15Z",
+                "value": 591.35,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:20Z",
+                "value": 460.81,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:25Z",
+                "value": 653.83,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:30Z",
+                "value": 568.23,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:35Z",
+                "value": 207.9,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:40Z",
+                "value": 337.43,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:45Z",
+                "value": 855.97,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:50Z",
+                "value": 597.3,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:55Z",
+                "value": 251.91,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:00Z",
+                "value": 559.84,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:05Z",
+                "value": 434.55,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:10Z",
+                "value": 890.19,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:15Z",
+                "value": 93.38,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:20Z",
+                "value": 1000.78,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:25Z",
+                "value": 947.27,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:30Z",
+                "value": 983.28,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:35Z",
+                "value": 111.15,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:40Z",
+                "value": 679.57,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:45Z",
+                "value": 913.33,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:50Z",
+                "value": 630.66,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:55Z",
+                "value": 756.51,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:00Z",
+                "value": 893.49,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:05Z",
+                "value": 728.98,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:10Z",
+                "value": 1011.29,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:15Z",
+                "value": 183.7,
+                "opcQuality": "Uncertain"
+            }
+        ],
+        "color": "#EF895C",
+        "backgroundColor": "rgba(181, 45, 129, 0.1)"
+    },
+    {
+        "instrumentName": "Instrument 3",
+        "sensorType": "Speed",
+        "data": [
+            {
+                "timestamp": "2025-01-15T00:00:00Z",
+                "value": 860.87,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:05Z",
+                "value": 123.52,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:10Z",
+                "value": 699.95,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:15Z",
+                "value": 745.57,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:20Z",
+                "value": 436.7,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:25Z",
+                "value": 892.58,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:30Z",
+                "value": 463.1,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:35Z",
+                "value": 906.75,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:40Z",
+                "value": 611.6,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:45Z",
+                "value": 479.03,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:50Z",
+                "value": 937.59,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:55Z",
+                "value": 746.47,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:00Z",
+                "value": 211.05,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:05Z",
+                "value": 108.24,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:10Z",
+                "value": 612.7,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:15Z",
+                "value": 503.33,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:20Z",
+                "value": 848.59,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:25Z",
+                "value": 382.15,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:30Z",
+                "value": 678.61,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:35Z",
+                "value": 380.2,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:40Z",
+                "value": 741.38,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:45Z",
+                "value": 321.88,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:50Z",
+                "value": 788.68,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:55Z",
+                "value": 797.2,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:00Z",
+                "value": 90.78,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:05Z",
+                "value": 91.79,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:10Z",
+                "value": 482.27,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:15Z",
+                "value": 535.0,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:20Z",
+                "value": 28.83,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:25Z",
+                "value": 734.23,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:30Z",
+                "value": 926.88,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:35Z",
+                "value": 941.71,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:40Z",
+                "value": 239.58,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:45Z",
+                "value": 146.83,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:50Z",
+                "value": 171.21,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:55Z",
+                "value": 459.08,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:00Z",
+                "value": 975.09,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:05Z",
+                "value": 910.54,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:10Z",
+                "value": 978.88,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:15Z",
+                "value": 723.35,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:20Z",
+                "value": 551.88,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:25Z",
+                "value": 303.29,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:30Z",
+                "value": 932.74,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:35Z",
+                "value": 454.82,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:40Z",
+                "value": 798.85,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:45Z",
+                "value": 255.29,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:50Z",
+                "value": 985.93,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:55Z",
+                "value": 964.07,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:00Z",
+                "value": 61.14,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:05Z",
+                "value": 858.74,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:10Z",
+                "value": 31.9,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:15Z",
+                "value": 584.98,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:20Z",
+                "value": 800.63,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:25Z",
+                "value": 29.33,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:30Z",
+                "value": 662.7,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:35Z",
+                "value": 581.21,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:40Z",
+                "value": 406.42,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:45Z",
+                "value": 349.28,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:50Z",
+                "value": 390.37,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:55Z",
+                "value": 472.28,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:00Z",
+                "value": 288.84,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:05Z",
+                "value": 56.6,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:10Z",
+                "value": 664.87,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:15Z",
+                "value": 997.44,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:20Z",
+                "value": 75.94,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:25Z",
+                "value": 446.91,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:30Z",
+                "value": 28.33,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:35Z",
+                "value": 807.09,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:40Z",
+                "value": 121.25,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:45Z",
+                "value": 595.47,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:50Z",
+                "value": 960.6,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:55Z",
+                "value": 580.15,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:00Z",
+                "value": 295.99,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:05Z",
+                "value": 343.66,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:10Z",
+                "value": 226.29,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:15Z",
+                "value": 379.86,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:20Z",
+                "value": 527.44,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:25Z",
+                "value": 91.36,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:30Z",
+                "value": 61.47,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:35Z",
+                "value": 645.44,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:40Z",
+                "value": 492.49,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:45Z",
+                "value": 597.84,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:50Z",
+                "value": 939.72,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:55Z",
+                "value": 959.44,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:00Z",
+                "value": 425.43,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:05Z",
+                "value": 141.03,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:10Z",
+                "value": 767.86,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:15Z",
+                "value": 202.81,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:20Z",
+                "value": 55.01,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:25Z",
+                "value": 414.23,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:30Z",
+                "value": 694.68,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:35Z",
+                "value": 168.81,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:40Z",
+                "value": 912.47,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:45Z",
+                "value": 650.09,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:50Z",
+                "value": 242.61,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:55Z",
+                "value": 396.84,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:00Z",
+                "value": 897.21,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:05Z",
+                "value": 33.43,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:10Z",
+                "value": 105.46,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:15Z",
+                "value": 269.53,
+                "opcQuality": "Good"
+            }
+        ],
+        "color": "#78AD4B",
+        "backgroundColor": "rgba(87, 101, 6, 0.1)"
+    },
+    {
+        "instrumentName": "Instrument 4",
+        "sensorType": "Temperature",
+        "data": [
+            {
+                "timestamp": "2025-01-15T00:00:00Z",
+                "value": 334.21,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:05Z",
+                "value": 959.06,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:10Z",
+                "value": 875.11,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:15Z",
+                "value": 410.14,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:20Z",
+                "value": 590.8,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:25Z",
+                "value": 952.64,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:30Z",
+                "value": 736.5,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:35Z",
+                "value": 293.62,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:40Z",
+                "value": 300.09,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:45Z",
+                "value": 570.55,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:50Z",
+                "value": 944.08,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:55Z",
+                "value": 226.94,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:00Z",
+                "value": 797.68,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:05Z",
+                "value": 679.94,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:10Z",
+                "value": 674.41,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:15Z",
+                "value": 576.15,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:20Z",
+                "value": 264.07,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:25Z",
+                "value": 462.1,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:30Z",
+                "value": 812.93,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:35Z",
+                "value": 58.45,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:40Z",
+                "value": 615.1,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:45Z",
+                "value": 602.71,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:50Z",
+                "value": 518.6,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:55Z",
+                "value": 68.36,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:00Z",
+                "value": 63.4,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:05Z",
+                "value": 323.14,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:10Z",
+                "value": 618.81,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:15Z",
+                "value": 477.92,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:20Z",
+                "value": 513.15,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:25Z",
+                "value": 519.37,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:30Z",
+                "value": 140.6,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:35Z",
+                "value": 302.63,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:40Z",
+                "value": 362.97,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:45Z",
+                "value": 189.37,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:50Z",
+                "value": 810.35,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:55Z",
+                "value": 96.14,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:00Z",
+                "value": 181.41,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:05Z",
+                "value": 282.24,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:10Z",
+                "value": 801.77,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:15Z",
+                "value": 842.31,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:20Z",
+                "value": 278.27,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:25Z",
+                "value": 285.03,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:30Z",
+                "value": 596.05,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:35Z",
+                "value": 537.7,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:40Z",
+                "value": 331.55,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:45Z",
+                "value": 195.45,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:50Z",
+                "value": 212.55,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:55Z",
+                "value": 634.0,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:00Z",
+                "value": 866.47,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:05Z",
+                "value": 710.16,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:10Z",
+                "value": 699.1,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:15Z",
+                "value": 590.62,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:20Z",
+                "value": 568.46,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:25Z",
+                "value": 404.45,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:30Z",
+                "value": 781.69,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:35Z",
+                "value": 453.71,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:40Z",
+                "value": 574.51,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:45Z",
+                "value": 729.04,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:50Z",
+                "value": 98.15,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:55Z",
+                "value": 1016.7,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:00Z",
+                "value": 837.55,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:05Z",
+                "value": 275.87,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:10Z",
+                "value": 204.76,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:15Z",
+                "value": 617.89,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:20Z",
+                "value": 575.42,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:25Z",
+                "value": 370.44,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:30Z",
+                "value": 535.67,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:35Z",
+                "value": 118.09,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:40Z",
+                "value": 161.57,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:45Z",
+                "value": 603.45,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:50Z",
+                "value": 733.92,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:55Z",
+                "value": 37.29,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:00Z",
+                "value": 787.03,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:05Z",
+                "value": 100.27,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:10Z",
+                "value": 30.38,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:15Z",
+                "value": 883.49,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:20Z",
+                "value": 141.77,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:25Z",
+                "value": 219.13,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:30Z",
+                "value": 516.23,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:35Z",
+                "value": 319.89,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:40Z",
+                "value": 979.58,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:45Z",
+                "value": 827.97,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:50Z",
+                "value": 786.49,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:55Z",
+                "value": 132.85,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:00Z",
+                "value": 1016.67,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:05Z",
+                "value": 857.51,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:10Z",
+                "value": 805.48,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:15Z",
+                "value": 661.21,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:20Z",
+                "value": 443.14,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:25Z",
+                "value": 133.68,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:30Z",
+                "value": 920.88,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:35Z",
+                "value": 210.37,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:40Z",
+                "value": 203.44,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:45Z",
+                "value": 235.12,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:50Z",
+                "value": 1003.58,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:55Z",
+                "value": 682.51,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:00Z",
+                "value": 363.77,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:05Z",
+                "value": 871.76,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:10Z",
+                "value": 573.68,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:15Z",
+                "value": 751.07,
+                "opcQuality": "Bad"
+            }
+        ],
+        "color": "#9AE312",
+        "backgroundColor": "rgba(136, 82, 224, 0.1)"
+    },
+    {
+        "instrumentName": "Instrument 5",
+        "sensorType": "Humidity",
+        "data": [
+            {
+                "timestamp": "2025-01-15T00:00:00Z",
+                "value": 815.12,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:05Z",
+                "value": 85.65,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:10Z",
+                "value": 388.73,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:15Z",
+                "value": 742.21,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:20Z",
+                "value": 1018.92,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:25Z",
+                "value": 193.14,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:30Z",
+                "value": 482.35,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:35Z",
+                "value": 913.97,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:40Z",
+                "value": 773.54,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:45Z",
+                "value": 121.75,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:50Z",
+                "value": 935.5,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:00:55Z",
+                "value": 662.68,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:00Z",
+                "value": 704.08,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:05Z",
+                "value": 662.94,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:10Z",
+                "value": 989.21,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:15Z",
+                "value": 825.7,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:20Z",
+                "value": 552.29,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:25Z",
+                "value": 637.43,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:30Z",
+                "value": 896.28,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:35Z",
+                "value": 80.02,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:40Z",
+                "value": 1007.72,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:45Z",
+                "value": 904.56,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:50Z",
+                "value": 194.15,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:01:55Z",
+                "value": 325.7,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:00Z",
+                "value": 837.69,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:05Z",
+                "value": 606.42,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:10Z",
+                "value": 1010.89,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:15Z",
+                "value": 187.17,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:20Z",
+                "value": 235.89,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:25Z",
+                "value": 784.04,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:30Z",
+                "value": 522.89,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:35Z",
+                "value": 618.71,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:40Z",
+                "value": 623.51,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:45Z",
+                "value": 761.16,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:50Z",
+                "value": 676.1,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:02:55Z",
+                "value": 180.64,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:00Z",
+                "value": 929.0,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:05Z",
+                "value": 247.21,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:10Z",
+                "value": 20.85,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:15Z",
+                "value": 1013.74,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:20Z",
+                "value": 613.66,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:25Z",
+                "value": 378.65,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:30Z",
+                "value": 418.51,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:35Z",
+                "value": 86.94,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:40Z",
+                "value": 605.15,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:45Z",
+                "value": 414.95,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:50Z",
+                "value": 605.52,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:03:55Z",
+                "value": 542.04,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:00Z",
+                "value": 594.06,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:05Z",
+                "value": 284.37,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:10Z",
+                "value": 340.6,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:15Z",
+                "value": 214.02,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:20Z",
+                "value": 399.0,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:25Z",
+                "value": 873.34,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:30Z",
+                "value": 403.9,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:35Z",
+                "value": 612.11,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:40Z",
+                "value": 576.75,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:45Z",
+                "value": 30.39,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:50Z",
+                "value": 370.62,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:04:55Z",
+                "value": 946.43,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:00Z",
+                "value": 649.44,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:05Z",
+                "value": 163.81,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:10Z",
+                "value": 481.04,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:15Z",
+                "value": 990.96,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:20Z",
+                "value": 540.19,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:25Z",
+                "value": 321.56,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:30Z",
+                "value": 937.29,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:35Z",
+                "value": 994.28,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:40Z",
+                "value": 796.17,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:45Z",
+                "value": 417.67,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:50Z",
+                "value": 614.69,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:05:55Z",
+                "value": 757.86,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:00Z",
+                "value": 556.52,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:05Z",
+                "value": 949.76,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:10Z",
+                "value": 761.3,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:15Z",
+                "value": 189.1,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:20Z",
+                "value": 116.52,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:25Z",
+                "value": 785.16,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:30Z",
+                "value": 829.26,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:35Z",
+                "value": 649.97,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:40Z",
+                "value": 286.89,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:45Z",
+                "value": 42.8,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:50Z",
+                "value": 642.51,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:06:55Z",
+                "value": 477.48,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:00Z",
+                "value": 964.0,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:05Z",
+                "value": 643.35,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:10Z",
+                "value": 430.7,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:15Z",
+                "value": 276.18,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:20Z",
+                "value": 87.83,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:25Z",
+                "value": 132.33,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:30Z",
+                "value": 971.73,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:35Z",
+                "value": 510.57,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:40Z",
+                "value": 342.81,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:45Z",
+                "value": 224.59,
+                "opcQuality": "Good"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:50Z",
+                "value": 460.94,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:07:55Z",
+                "value": 818.24,
+                "opcQuality": "Bad"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:00Z",
+                "value": 785.73,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:05Z",
+                "value": 728.1,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:10Z",
+                "value": 810.32,
+                "opcQuality": "Uncertain"
+            },
+            {
+                "timestamp": "2025-01-15T00:08:15Z",
+                "value": 211.12,
+                "opcQuality": "Good"
+            }
+        ],
+        "color": "#53FD27",
+        "backgroundColor": "rgba(20, 60, 221, 0.1)"
+    }
+]

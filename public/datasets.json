@@ -1,0 +1,46 @@
+[
+    {
+        "instrumentName": "Instrument 1",
+        "sensorType": "Temperature",
+        "data": [
+            { "timestamp": "2025-01-15T00:00:00Z", "value": 22.5, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:05Z", "value": 22.7, "opcQuality": "Good" }
+        ],
+        "color": "#FF5733",
+        "backgroundColor": "rgba(255, 87, 51, 0.1)"
+    },
+    {
+        "instrumentName": "Instrument 2",
+        "sensorType": "Pressure",
+        "data": [
+            { "timestamp": "2025-01-15T00:00:00Z", "value": 101.2, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:05Z", "value": 101.5, "opcQuality": "Good" }
+        ],
+        "color": "#4287f5",
+        "backgroundColor": "rgba(66, 135, 245, 0.1)"
+    },
+    {
+        "instrumentName": "Instrument 2",
+        "sensorType": "Pressure",
+        "data": [
+            { "timestamp": "2025-01-15T00:00:00Z", "value": 1012.2, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:05Z", "value": 11.5, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:00Z", "value": 1012.2, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:05Z", "value": 11.5, "opcQuality": "Good" }
+        ],
+        "color": "#427f5",
+        "backgroundColor": "rgba(151, 54, 54, 0.1)"
+    },
+    {
+        "instrumentName": "Instrument 2",
+        "sensorType": "Pressure",
+        "data": [
+            { "timestamp": "2025-01-15T00:00:00Z", "value": 11.2, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:05Z", "value": 10.5, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:00Z", "value": 1012.2, "opcQuality": "Good" },
+            { "timestamp": "2025-01-15T00:00:05Z", "value": 11.5, "opcQuality": "Good" }
+        ],
+        "color": "#4275",
+        "backgroundColor": "rgba(66, 245, 84, 0.1)"
+    }
+]
