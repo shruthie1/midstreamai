@@ -24,34 +24,34 @@ const TimeSeriesGraph = () => {
     }, []); // Empty array means this effect runs once when the component mounts
 
     // Mock data update function
-    useEffect(() => {
-        const addMockData = () => {
-            const newDatasets = [...datasets]; // Copy existing datasets to avoid direct mutation
+    // useEffect(() => {
+    //     // const addMockData = () => {
+    //     //     const newDatasets = [...datasets]; // Copy existing datasets to avoid direct mutation
 
-            // Simulate adding new data for each instrument
-            newDatasets.forEach((instrument) => {
-                // Get the current timestamp and a random value for the mock data
-                const newTimestamp = new Date();
-                const newValue = Math.random() * 100; // Random value between 0 and 100
+    //     //     // Simulate adding new data for each instrument
+    //     //     newDatasets.forEach((instrument) => {
+    //     //         // Get the current timestamp and a random value for the mock data
+    //     //         const newTimestamp = new Date();
+    //     //         const newValue = Math.random() * 100; // Random value between 0 and 100
 
-                // Push the new data point into the instrument's data
-                instrument.data.push({
-                    timestamp: newTimestamp,
-                    value: newValue,
-                    opcQuality: 'Good', // Mock opcQuality (you can change this as needed)
-                });
-            });
+    //     //         // Push the new data point into the instrument's data
+    //     //         instrument.data.push({
+    //     //             timestamp: newTimestamp,
+    //     //             value: newValue,
+    //     //             opcQuality: 'Good', // Mock opcQuality (you can change this as needed)
+    //     //         });
+    //     //     });
 
-            // Update state with the new datasets
-            setDatasets(newDatasets);
-        };
+    //     //     // Update state with the new datasets
+    //     //     setDatasets(newDatasets);
+    //     // };
 
-        // Set an interval to add new mock data every 5 seconds
-        // const intervalId = setInterval(addMockData, 5000);
+    //     // Set an interval to add new mock data every 5 seconds
+    //     // const intervalId = setInterval(addMockData, 5000);
 
-        // Cleanup interval on component unmount
-        // return () => clearInterval(intervalId);
-    }, [datasets]); // This effect depends on the `datasets` state
+    //     // Cleanup interval on component unmount
+    //     // return () => clearInterval(intervalId);
+    // }, [datasets]); // This effect depends on the `datasets` state
 
     useEffect(() => {
         // Destroy previous chart instance if it exists
