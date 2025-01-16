@@ -22,7 +22,7 @@ const TimeSeriesGraph = () => {
                 selectedInstruments(data[4]); // Select the first instrument by default
             })
             .catch((error) => console.error('Error loading JSON data:', error));
-    }, []); // Empty array means this effect runs once when the component mounts
+    }, [selectedInstruments]); // Empty array means this effect runs once when the component mounts
 
     // Mock data update function
     // useEffect(() => {
